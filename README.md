@@ -1,2 +1,2 @@
 # ASE - Web_Technologies-s1y3
-Web Technologies in HTML, CSS, JavaScript and TypeScript
+Web Technologies in HTML, CSS, JavaScript, TypeScript
